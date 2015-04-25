@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<categories>
+	<catagory no="1">
+		<title>PIZZAS (Sm/lg)</title>
+		<items>
+			<item type="small" price="5.50$">Tomato &amp; Chesse</item>
+			<item type="large" price="9.75$">Tomato &amp; Chesse</item>
+
+			<item type="small" price="6.85$">Onions</item>
+			<item type="large" price="10.85$">Onions</item>
+
+			<item type="small" price="6.85$">Peppers</item>
+			<item type="large" price="10.85$">Peppers</item>
+
+			<item type="small" price="6.85$">Broccoli</item>
+			<item type="large" price="10.85$">Broccoli</item>
+
+			<item type="small" price="6.85$">Fresh Garlic</item>
+			<item type="large" price="10.85$">Fresh Garlic</item>
+		</items>
+	</catagory>
+
+	<catagory no="2">
+		<title>SPECIALITY DINNERS </title>
+		<items>
+			<item type="" price="7.25$">Chicken wing dinner</item>
+			<item type="" price="7.25$">Gyro Plate</item>
+			<item type="" price="7.25$">Chicken finger plate</item>
+			<item type="" price="7.25$">3 pcs Chicken diner</item>
+			<item type="" price="8.25$">Steak tips Dinner with salad &amp; pita bread</item>
+		</items>
+	</catagory>
+
+	<catagory no="3">
+		<title>SALADS (Sm/lg)</title>
+		<items>
+			<item type="small" price="3.50$">Garden</item>
+			<item type="large" price="4.50$">Garden</item>
+			<item type="small" price="4.50$">Greek</item>
+			<item type="large" price="5.50$">Greek</item>
+
+			<item type="small" price="4.50$">Antipasto</item>
+			<item type="large" price="5.50$">Antipasto</item>
+
+			<item type="small" price="4.50$">Chef</item>
+			<item type="large" price="5.50$">Chef</item>
+			<item type="small" price="4.50$">Tuna</item>
+			<item type="large" price="5.50$">Tuna</item>
+
+			<item type="small" price="5.45$">Cheese</item>
+			<item type="large" price="6.45$">Cheese</item>
+		</items>
+	</catagory>
+
+	<catagory no="4">
+		<title>GRINDERS (Sm/lg)</title>
+		<items>
+			<item type="small" price="4.50$">Meatless</item>
+			<item type="large" price="4.95$">Meatless</item>
+
+			<item type="small" price="4.50$">Hamburger</item>
+			<item type="large" price="5.95$">Hamburger</item>
+
+			<item type="small" price="4.75$">Cheeseburger</item>
+			<item type="large" price="5.75$">Cheeseburger</item>
+
+			<item type="small" price="4.75$">Meatball</item>
+			<item type="large" price="5.75$">Meatball</item>
+
+			<item type="small" price="5.10$">Cheese Steak</item>
+			<item type="large" price="6.00$">Cheese Steak</item>
+
+			<item type="small" price="4.75$">Ham &amp; Egg</item>
+			<item type="large" price="5.75$">Ham &amp; Egg</item>
+		</items>
+	</catagory>
+
+</categories>
